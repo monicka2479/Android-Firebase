@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "811761868512",
+    "firebase_url": "https://aranidhi17.firebaseio.com",
+    "project_id": "aranidhi17",
+    "storage_bucket": "aranidhi17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811761868512:android:a079aa5f0466ec28",
+        "android_client_info": {
+          "package_name": "ebidrive.androidfirebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811761868512-7naicrdsk9qant01itcs32q7hea0hn1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ebidrive.androidfirebasetutorial",
+            "certificate_hash": "654e06a175a822d3b8ad83c1adbc7e2dc508f775"
+          }
+        },
+        {
+          "client_id": "811761868512-0odpqmta00o67d1o4aravh152alae1ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJPb91f2LOBPsH1VUBZGT4_upI_16gtU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811761868512-0odpqmta00o67d1o4aravh152alae1ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
